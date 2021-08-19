@@ -1,5 +1,5 @@
 # Olá 👋😉
-Eu sou o **Jo Caetano**, Eng. Electrónica e Telecomunicações e Programador empreendedor.
+Eu sou o **João Santos**, Eng. Electrónica e Telecomunicações e Programador empreendedor.
 
 ## Atualmente
 - 🔭 Trabalhando nos projecos Promote e Pax. 
