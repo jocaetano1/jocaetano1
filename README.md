@@ -2,8 +2,8 @@
 Eu sou o **João Santos**, Eng. Electrónica e Telecomunicações e Programador empreendedor.
 
 ## Atualmente
-- 🔭 Trabalhando nos projecos Promote e Pax. 
-- 🌱 Aprendendo as línguagens **Dart** e **Golang**.
+- Trabalhando nos projectos **Saturno** e **Electronic Shop**. 
+- Aprendendo as línguagens **C** e **C++**.
 
 ## Meus Projectos
 1. [Promote](https://promote.ao), Gateway de SMS com API de integração.
