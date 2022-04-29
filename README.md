@@ -1,13 +1,12 @@
-# Olá 👋😉
-Eu sou o **João Santos**, Eng. Electrónica e Telecomunicações e Programador empreendedor.
+# Olá 👋😉, eu sou o **João Santos**.
+Sou formado em Engenharia de Telecomunicações, mas eu amo aprender, ensinar e programar. Nesse momento programador empreendedor
 
 ## Atualmente
-- Trabalhando nos projectos **Saturno** e **Electronic Shop**. 
-- Aprendendo as línguagens **C** e **C++**.
+- 😄 FullStack no projeto **Saturno**. 
+- 🤔 FullStack no projeto **Living**.
+- 😄 Aprendendo as línguagens **C** e **C++**.
 
 ## Meus Projectos
-1. [Promote](https://promote.ao), Gateway de SMS com API de integração.
-1. [Pax](https://pax.ao), Uma forma simples de andar pelo país.
 1. [Saturno](https://www.saturno.ao), Sistema de gestão de pagamentos por referência.
 
 ## Redes Sociais
@@ -16,16 +15,3 @@ Eu sou o **João Santos**, Eng. Electrónica e Telecomunicações e Programador 
 3. [Instagram](https://instagram.com/jocaetano2)
 4. WhatsApp, +244 933 843 893
 5. Telegram, +244 933 843 893
-
-<!--
-**jocaetano1/jocaetano1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
