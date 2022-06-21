@@ -1,13 +1,11 @@
 # Olá 👋😉, eu sou o **João Santos**.
-Sou formado em Engenharia de Telecomunicações, mas eu amo aprender, ensinar e programar. Nesse momento programador empreendedor
+Sou formado em Engenharia de Telecomunicações, mas eu amo aprender, ensinar e programar.
 
 ## Atualmente
-- 😄 FullStack no projeto **Saturno**. 
-- 🤔 FullStack no projeto **Living**.
 - 😄 Aprendendo as línguagens **C** e **C++**.
 
 ## Meus Projectos
-1. [Saturno](https://www.saturno.ao), Sistema de gestão de pagamentos por referência.
+1. django-mimo-sms - Uma integração de projectos Django com o serviço de SMS **MIMO**
 
 ## Redes Sociais
 1. [Facebook](https://facebook.com/jo.caetano.169)
