@@ -5,7 +5,7 @@ Sou formado em Engenharia de Telecomunicações, mas eu amo aprender, ensinar e 
 - 😄 Aprendendo as línguagens **C** e **C++**.
 
 ## Meus Projectos
-1. django-mimo-sms - Uma integração de projectos Django com o serviço de SMS **MIMO**
+1. **django-mimo-sms** - Uma integração de projectos Django com o serviço de SMS **MIMO**
 
 ## Redes Sociais
 1. [Facebook](https://facebook.com/jo.caetano.169)
